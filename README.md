@@ -4,7 +4,6 @@
 
 Me chamo Alexandre Miranda.
 
-- ⚙  Atualmente trabalho com micro-serviços e integrações.
 - 👨‍💻 As principais ferramentas e liguagens que utilizo são:  
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) &nbsp;
