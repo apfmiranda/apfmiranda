@@ -26,7 +26,7 @@ Me chamo Alexandre Miranda.
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apfmiranda&count_private=true&show_icons=true&theme=vue&hide_border=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apfmiranda&count_private=true&show_icons=true&theme=vue&hide_border=true) -->
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=apfmiranda&layout=compact&&show_icons=true&theme=vue&hide_border=true)
 
 
