@@ -25,10 +25,8 @@ Me chamo Alexandre Miranda.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
-<div>
 ![Apfmiranda's GitHub stats](https://github-readme-stats.vercel.app/api?username=apfmiranda&count_private=true&show_icons=true&theme=vue&hide_border=true)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=apfmiranda&layout=compact&&show_icons=true&theme=vue&hide_border=true)
-</div>
 
 
 
