@@ -26,13 +26,17 @@ Me chamo Alexandre Miranda.
 
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apfmiranda&count_private=true&show_icons=true&theme=vue&hide_border=true) -->
+![Apfmiranda's GitHub stats](https://github-readme-stats.vercel.app/api?username=apfmiranda&count_private=true&show_icons=true&theme=vue&hide_border=true)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=apfmiranda&layout=compact&&show_icons=true&theme=vue&hide_border=true)
 
 
 
 
-<div align="right" ><a href="https://www.linkedin.com/in/apfmiranda/"><img width="48px" height="48px" alt="LinkedIn" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" /></a></div>
+<div align="right" >
+    <a href="https://www.linkedin.com/in/apfmiranda/">
+        <img width="48px" height="48px" alt="LinkedIn" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" />
+    </a>
+</div>
 
 
 ⭐️ From [apfmiranda](https://github.com/apfmiranda)
