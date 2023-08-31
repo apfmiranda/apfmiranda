@@ -29,7 +29,7 @@ Me chamo Alexandre Miranda.
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=apfmiranda&layout=compact&&show_icons=true&theme=vue&hide_border=true)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apfmiranda&layout=compact&count_private=true&show_icons=true&theme=vue&hide_border=true)](https://github.com/apfmiranda/apfmiranda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apfmiranda&layout=compact&count_private=true&show_icons=true&theme=vue&hide_border=true&include_all_commits=true)](https://github.com/apfmiranda/apfmiranda)
 
 
 
